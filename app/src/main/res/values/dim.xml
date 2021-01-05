@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bird_with" type="dimen">24dp</item>
+    <item name="bird_height" type="dimen">17dp</item>
+    <item name="on_tap_velocity" type="dimen">-10dp</item>
+    <item name="base_width" type="dimen">225dp</item>
+    <item name="base_height" type="dimen">75dp</item>
+
+    <item name="pipe_width" type="dimen">50dp</item>
+    <dimen name="pipe_opening" type="dimen">143dp</dimen>
+    <item name="pipe_space" type="dimen">180dp</item>
+
+    <item name="digit_margin_top" type="dimen">50dp</item>
+</resources>
